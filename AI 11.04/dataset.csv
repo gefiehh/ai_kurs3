@@ -1,0 +1,395 @@
+text,intent
+привет,greeting
+здравствуй,greeting
+добрый день,greeting
+доброе утро,greeting
+добрый вечер,greeting
+приветик,greeting
+хай,greeting
+ку,greeting
+здрасьте,greeting
+привет бот,greeting
+привет как дела,greeting
+здравствуйте,greeting
+доброго времени суток,greeting
+приветствую,greeting
+хеллоу,greeting
+йо,greeting
+привет как сам,greeting
+привет дружище,greeting
+доброго дня,greeting
+привет снова,greeting
+здравствуй мой хороший,greeting
+привет солнышко,greeting
+хай хай,greeting
+привет дорогой,greeting
+доброе утречко,greeting
+приветик бот,greeting
+здравствуй красавчик,greeting
+привет как поживаешь,greeting
+добрый денёк,greeting
+приветствую тебя,greeting
+эй привет,greeting
+привет мой любимый бот,greeting
+здравствуй солнышко моё,greeting
+привет как настроение,greeting
+добро пожаловать,greeting
+привет как ты,greeting
+здрасте,greeting
+приветик милый,greeting
+хай ботик,greeting
+добрый вечерочек,greeting
+привет как жизнь,greeting
+здравствуй зайка,greeting
+привет как дела у тебя,greeting
+доброе,greeting
+привет привет,greeting
+здравствуй мой друг,greeting
+привет как самочувствие,greeting
+хай привет,greeting
+добрый,greeting
+привет как настроение сегодня,greeting
+здравствуйте уважаемый,greeting
+привет как ты там,greeting
+доброе утро солнышко,greeting
+привет мой хороший,greeting
+здравствуй дорогой,greeting
+привет как поживаешь сегодня,greeting
+хай как дела,greeting
+добрый вечер мой любимый,greeting
+приветик как ты,greeting
+здрасти,greeting
+привет как день прошёл,greeting
+доброе утро дорогой,greeting
+привет как ты сегодня,greeting
+хай как сам,greeting
+здравствуй мой ботик,greeting
+привет как настроение у тебя,greeting
+добрый день мой хороший,greeting
+привет как дела сегодня,greeting
+пока,farewell
+до свидания,farewell
+пока пока,farewell
+до встречи,farewell
+бай бай,farewell
+до завтра,farewell
+спокойной ночи,farewell
+пока бот,farewell
+до скорого,farewell
+прощай,farewell
+удачи,farewell
+всего хорошего,farewell
+пока дорогой,farewell
+до вечера,farewell
+бывай,farewell
+до понедельника,farewell
+я пошёл,farewell
+спокойной ночи бот,farewell
+до свидания мой друг,farewell
+пока милый,farewell
+увидимся,farewell
+пока спасибо,farewell
+до скорой встречи,farewell
+всего доброго,farewell
+пока мой хороший,farewell
+спокойной ночи солнышко,farewell
+до завтрашнего дня,farewell
+бай,farewell
+прощай пока,farewell
+я ухожу,farewell
+до встречи позже,farewell
+пока пока пока,farewell
+спокойной ночи дорогой,farewell
+удачи тебе,farewell
+до свидания любимый,farewell
+пока как-нибудь напишу,farewell
+бывай ботик,farewell
+до вечера моего хорошего,farewell
+всего наилучшего,farewell
+пока мой любимый,farewell
+до скорого свидания,farewell
+спокойных снов,farewell
+пока пока милый,farewell
+до завтра солнышко,farewell
+как дела,smalltalk
+как у тебя дела,smalltalk
+как сам,smalltalk
+как ты,smalltalk
+всё хорошо,smalltalk
+всё ок,smalltalk
+как настроение,smalltalk
+ты как,smalltalk
+как поживаешь,smalltalk
+всё нормально,smalltalk
+как самочувствие,smalltalk
+как жизнь,smalltalk
+ты в порядке,smalltalk
+как день прошёл,smalltalk
+всё в норме,smalltalk
+как ты там,smalltalk
+как дела у тебя сегодня,smalltalk
+ты как сегодня,smalltalk
+как настроение сегодня,smalltalk
+всё хорошо у тебя,smalltalk
+как ты себя чувствуешь,smalltalk
+нормально всё,smalltalk
+как дела как жизнь,smalltalk
+ты в форме,smalltalk
+как дела бот,smalltalk
+всё ок у тебя,smalltalk
+как ты поживаешь,smalltalk
+как самочувствие сегодня,smalltalk
+всё нормально у тебя,smalltalk
+как дела мой хороший,smalltalk
+ты как милый,smalltalk
+как настроение у тебя,smalltalk
+всё хорошо солнышко,smalltalk
+как ты там держишься,smalltalk
+как дела дорогой,smalltalk
+всё в порядке у тебя,smalltalk
+как сам ботик,smalltalk
+ты как сегодня мой хороший,smalltalk
+как поживаешь солнышко,smalltalk
+всё ок дорогой,smalltalk
+как дела как самочувствие,smalltalk
+ты в норме сегодня,smalltalk
+как настроение мой любимый,smalltalk
+всё хорошо у тебя сегодня,smalltalk
+меня зовут соня,set_name
+зовут меня артём,set_name
+имя моё макс,set_name
+я вика,set_name
+меня зовут никита,set_name
+зовут меня тёма,set_name
+моё имя ира,set_name
+я ксюша,set_name
+меня зовут лёша,set_name
+зовут меня таня,set_name
+я андрей,set_name
+меня зовут лиза,set_name
+зовут меня вова,set_name
+я светa,set_name
+меня зовут егор,set_name
+зовут меня поли,set_name
+моё имя данил,set_name
+я марина,set_name
+5 + 3,addition
+сколько будет 8 + 12,addition
+10 плюс 15,addition
+20 + 30,addition
+7 + 9,addition
+100 + 50,addition
+4 плюс 16,addition
+25 + 75,addition
+1 + 99,addition
+33 + 67,addition
+6 + 14,addition
+45 + 55,addition
+2 + 98,addition
+19 + 31,addition
+12 + 88,addition
+50 + 50,addition
+9 + 41,addition
+27 + 73,addition
+15 + 85,addition
+3 + 7,addition
+38 + 62,addition
+11 + 29,addition
+44 + 56,addition
+23 + 77,addition
+16 + 84,addition
+погода в москве,weather
+какая погода в питере,weather
+сколько градусов в екатеринбурге,weather
+погода сейчас в новосибирске,weather
+какая погода в сочи,weather
+температура в казани,weather
+погода в краснодаре,weather
+сколько градусов в ростове,weather
+погода сегодня в самаре,weather
+какая погода в омске,weather
+погода в киеве,weather
+сколько градусов в минске,weather
+погода в алматы,weather
+какая температура в тбилиси,weather
+погода сейчас в париже,weather
+сколько градусов в берлине,weather
+погода в лондоне,weather
+какая погода в дубае,weather
+температура в стамбуле,weather
+погода в анталии,weather
+сколько градусов в барселоне,weather
+погода в праге,weather
+какая погода в риме,weather
+температура в амстердаме,weather
+погода сейчас в токио,weather
+сколько градусов в сеуле,weather
+погода в пекине,weather
+какая погода в нью-йорке,weather
+температура в лос-анджелесе,weather
+погода в чикаго,weather
+сколько градусов в майами,weather
+погода в торонто,weather
+какая погода в ванкувере,weather
+что это,unknown
+не понял,unknown
+что за фигня,unknown
+бред,unknown
+абракадабра,unknown
+не знаю что сказать,unknown
+хз,unknown
+бла бла бла,unknown
+ля ля ля,unknown
+просто так,unknown
+что угодно,unknown
+рандом,unknown
+тест тест,unknown
+не знаю,unknown
+фигня какая-то,unknown
+не врубаюсь,unknown
+что за ерунда,unknown
+не догоняю,unknown
+чушь,unknown
+просто буквы,unknown
+не понимаю,unknown
+что за бред,unknown
+случайный текст,unknown
+неясно,unknown
+не в теме,unknown
+без понятия,unknown
+не догоняю совсем,unknown
+что это было,unknown
+странно как-то,unknown
+не врубаюсь вообще,unknown
+нужно ли брать зонт,weather
+стоит ли брать зонт,weather
+брать зонт или нет,weather
+зонт нужен сегодня,weather
+дождь будет нужно зонт,weather
+возьми зонт,weather
+без зонта не промокну,weather
+погода такая что зонт брать,weather
+зонт или дождевик,weather
+стоит брать зонтик,weather
+зонт пригодится,weather
+не промокнуть бы,weather
+дождь ожидается зонт,weather
+нужен ли зонтик сегодня,weather
+брать ли зонтик,weather
+зонт с собой,weather
+погода дождливая зонт,weather
+не попасть под дождь,weather
+зонт или кепка,weather
+стоит ли зонтик брать,weather
+дождик пойдёт зонт нужен,weather
+зонт в сумку,weather
+возьму ли зонт,weather
+нужен ли зонт в москве,weather
+погода дождь зонт,weather
+зонт брать или нет сегодня,weather
+будет ли дождь,weather
+ожидается дождь,weather
+дождливо сегодня,weather
+вероятность дождя,weather
+сильный дождь,weather
+моросит дождь,weather
+гроза будет,weather
+осадки сегодня,weather
+мокро на улице,weather
+промокну,weather
+погода для прогулки,weather
+стоит ли выходить без куртки,weather
+холодно на улице,weather
+жарко сегодня,weather
+ветер сильный,weather
+Какая погода в Москве,weather
+Сколько времени,time
+Какое сегодня число,date
+Привет,greeting
+Что ты умеешь,help
+Как дела,smalltalk
+Сколько сейчас времени,time
+Который час,time
+Скажи время,time
+Какое сейчас время,time
+Какое сегодня число,date
+Сегодня какое число,date
+Дата сегодня,date
+Какой сегодня день,date
+Приветствую,greeting
+Здравствуй,greeting
+Добрый день,greeting
+Хай,greeting
+Привет бот,greeting
+Что ты умеешь?,help
+Расскажи о своих возможностях,help
+Твои команды,help
+Что можешь делать,help
+Помощь,help
+Как дела?,smalltalk
+Как у тебя дела,smalltalk
+Как сам,smalltalk
+Как настроение,smalltalk
+Всё хорошо?,smalltalk
+Ты как?,smalltalk
+Как поживаешь,smalltalk
+Как жизнь,smalltalk
+Как ты сегодня,smalltalk
+Как самочувствие,smalltalk
+Спасибо,thanks
+Благодарю,thanks
+Спасибо большое,thanks
+Спасибки,thanks
+Отлично,thanks
+Круто,thanks
+Хорошо,thanks
+Пока,farewell
+До свидания,farewell
+До встречи,farewell
+Пока-пока,farewell
+Спокойной ночи,farewell
+Бай,farewell
+Удачи,farewell
+Меня зовут Анна,set_name
+Зовут меня Маша,set_name
+Моё имя Саша,set_name
+Я Катя,set_name
+Меня зовут Дмитрий,set_name
+5 + 7,addition
+Сколько будет 12 + 8,addition
+20 плюс 35,addition
+нужно ли брать зонт,weather
+стоит ли брать зонтик,weather
+будет ли дождь,weather
+зонт нужен сегодня?,weather
+дождь ожидается,weather
+промокну без зонта,weather
+погода дождливая,weather
+холодно на улице,weather
+жарко сегодня,weather
+ветер сильный,weather
+сколько градусов,weather
+нужен ли зонт,weather
+что ты умеешь,help
+что можешь,help
+твои возможности,help
+расскажи что умеешь,help
+какие команды есть,help
+help,help
+что ты можешь делать,help
+покажи возможности,help
+как с тобой работать,help
+что доступно,help
+список команд,help
+погода,weather
+какая погода,weather
+погоду,weather
+покажи погоду,weather
+какая сейчас погода,weather
+погода сейчас,weather
+сколько градусов,weather
+какая температура,weather
+погода сегодня,weather
+какая погода сегодня,weather
+погода на улице,weather
+что с погодой,weather
